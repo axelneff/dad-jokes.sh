@@ -97,7 +97,7 @@ punchlines=(
   "${Green}An ${underGreen}IRRELEPHANT!${NC}"   #11
   "${Green}I'm still ${underGreen}WORKING${Green} on it!${NC}"   #12
   "${underGreen}NACHO${Green} Cheese!${NC}"   #13
-  "${Green}It was ${underGreen}TWO TIGreen!${NC}"   #14
+  "${Green}It was ${underGreen}TWO TIRED!${NC}"   #14
   "${Green}He let out a little ${underGreen}WINE!${NC}"   #15
   "${Green}It's a total ${underGreen}RIP-OFF!${NC}"   #16
   "${Green}People must be ${underGreen}DYING${Green} to get in there.!${NC}"   #17
